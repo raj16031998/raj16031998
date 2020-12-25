@@ -1,7 +1,7 @@
 {
     "name": "Dibyanka",
     "short_name": "Loading...",
-    "start_url": "/index.html?launcher=true",
+    "start_url": "index.html?launcher=true",
     "display": "standalone",
     "background_color": "#FAFAFA",
     "theme_color": "#512DA8",
